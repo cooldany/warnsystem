@@ -1,0 +1,15 @@
+name: warnsystem
+version: 1.0dev01
+author: cooldany
+main: de.cooldany.warnsystem.Warnsystem
+
+commands:
+  warn:
+    description: lobby warp
+    usage: /warn <Player> 
+  warns:
+    description: Zeigt die Warns an.
+    usage: /<command>    
+  delwarn:
+    description: Loescht warn.
+    usage: /<command>   
